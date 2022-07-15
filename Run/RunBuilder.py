@@ -5,7 +5,7 @@
 import torch
 import torchvision 
 import torchvision.transforms as transforms 
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import numpy as np
 import torch.nn as nn
 import torch.nn.functional as F
@@ -16,7 +16,7 @@ import time
 import pandas as pd
 from collections import OrderedDict
 from collections import namedtuple
-from IPython.display import clear_output
+# from IPython.display import clear_output
 
 
 class RunBuilder():
